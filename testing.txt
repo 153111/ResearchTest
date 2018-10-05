@@ -1,2 +1,0 @@
-this is just a testing txt file
-I wish to be able to use git like a pro.
