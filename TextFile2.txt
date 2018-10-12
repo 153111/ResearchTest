@@ -3,3 +3,7 @@ This is the second file.
 I made some changes on this file
 
 I don't know what to do.
+
+boring
+
+Hello world
